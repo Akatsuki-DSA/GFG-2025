@@ -2,6 +2,8 @@
     "files.associations": {
         "*.jsx": "javascript",
         "vector": "cpp",
-        "iostream": "cpp"
-    }
+        "iostream": "cpp",
+        "string": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
